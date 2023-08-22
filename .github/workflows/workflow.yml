@@ -7,7 +7,6 @@ permissions:
       id-token: write
       contents: read
 
-#env:
   Location: "westeurope"
   ManagementGroupPrefix: "hhs"
   identityManagementGroup: "hhs"
